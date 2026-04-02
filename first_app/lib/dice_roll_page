@@ -1,0 +1,28 @@
+import 'package:first_app/dice_roller.dart';
+import 'package:first_app/gradient_container.dart';
+import 'package:flutter/material.dart';
+
+class DiceRollPage extends StatelessWidget {
+  const DiceRollPage({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return GradientContainer(
+      colors: const [
+        Color(0xFF2A2F3A),
+        Color(0xFF07595F),
+      ],
+      child: Scaffold(
+        backgroundColor: Colors.transparent,
+        appBar: AppBar(
+          title: const Text('Dice Roller'),
+          backgroundColor: Colors.transparent,
+          elevation: 0,
+          foregroundColor: Colors.white,
+        ),
+        body: const DiceRoller(),
+      ),
+    );
+  }
+}
+
