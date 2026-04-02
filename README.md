@@ -58,11 +58,11 @@ Dice Roller is a **Flutter-based mobile application** that allows users to:
   <tr>
     <td align="center" style="padding: 10px;">
         <b>Initial State</b><br/>
-      <img src="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/assets/screenshot1.png" width="100%" alt="Initial State" />
+      <img src="https://github.com/Rxpr0/Roll_Dice-App/blob/main/Initial_Screen.jpeg" width="100%" alt="Initial State" />
     </td>
     <td align="center" style="padding: 10px;">
          <b>After Rolling</b><br/>
-      <img src="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/assets/screenshot2.png" width="100%" alt="After Rolling" />
+      <img src="https://github.com/Rxpr0/Roll_Dice-App/blob/main/AfterRolling.jpeg" width="100%" alt="After Rolling" />
     </td>
   </tr>
 </table>
